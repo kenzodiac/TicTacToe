@@ -39,6 +39,10 @@ export default function Game(){
       return (
         <YoutubeEmbed embedId="fGx6K90TmCI" />
       );
+    } else if (winwin === 'O') {
+      return (
+        <YoutubeEmbed embedId="Hr4wz4-27PY" />
+      );
     } else {
       return null;
     }
