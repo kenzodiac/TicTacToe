@@ -1,3 +1,8 @@
+// Kenneth Fujimura
+// Date Revised: 3/10/2023
+// "Tic Tac Toe Assignment"
+// This is an assignment where we followed a tutorial instructions for creating a basic 'Tic Tac Toe' game in React. We then added some styling and a special feature. For my feature, when a player wins, depending on if it's the 'X' player or the 'O' player, a youtube embed pops up with a victory song that the player can choose to play.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
