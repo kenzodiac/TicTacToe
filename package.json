@@ -1,0 +1,28 @@
+{
+  "homepage": "https://kenzodiac.github.io/TicTacToe/",
+  "name": "tictactoe",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "react": "^18.0.0",
+    "react-bootstrap": "^2.7.2",
+    "react-dom": "^18.0.0",
+    "react-scripts": "^4.0.0"
+  },
+  "main": "/index.js",
+  "devDependencies": {
+    "gh-pages": "^5.0.0",
+    "react-scripts": "1.0.0",
+    "s": "^1.0.0"
+  },
+  "name": "i18f1x",
+  "description": null,
+  "version": "0.0.0",
+  "scripts": {
+    "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
